@@ -1,0 +1,26 @@
+[
+    {
+        "caption": "AppEngine Toolkit: Run Devserver",
+        "command": "app_tools_run"
+    },
+    {
+        "caption": "AppEngine Toolkit: Compile Project Assets",
+        "command": "app_tools_compile"
+    },
+    {
+        "caption": "AppEngine Toolkit: Update Dependencies",
+        "command": "app_tools_update"
+    },
+    {
+        "caption": "AppEngine Toolkit: App Scaffolding",
+        "command": "app_tools_scaffold"
+    },
+    {
+        "caption": "AppEngine Toolkit: Minify Project Assets",
+        "command": "app_tools_minify"
+    },
+    {
+        "caption": "AppEngine Toolkit: Push to Production",
+        "command": "app_tools_serve"
+    }
+]
